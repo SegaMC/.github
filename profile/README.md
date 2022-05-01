@@ -1,1 +1,1 @@
-## Sega Network
+## SegaMC
